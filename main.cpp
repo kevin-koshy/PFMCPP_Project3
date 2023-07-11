@@ -937,7 +937,7 @@ struct Display  //UDT 5
 { 
     /* empty just to make the example easy to follow */ 
 };
-struct Memory       { }; //UDT 6
+struct Memory       { }; //UDT 6.0
 struct CPU          { }; //UDT 7
 struct Radio        { }; //UDT 8
 struct Applications { }; //UDT 9
